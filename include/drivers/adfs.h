@@ -81,3 +81,5 @@ struct adfs_discmap {
 	unsigned int		dm_startbit;
 	unsigned int		dm_endbit;
 };
+
+#endif
