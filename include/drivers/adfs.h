@@ -1,4 +1,8 @@
 /* SPDX-License-Identifier: GPL-2.0 */
+
+#ifndef _DRIVERS_ADFS_H
+#define _DRIVERS_ADFS_H
+
 #include <linux/buffer_head.h>
 #include <linux/types.h>
 #include <linux/fs.h>
